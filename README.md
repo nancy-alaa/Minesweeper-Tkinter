@@ -34,12 +34,12 @@ This repository contains a classic Minesweeper game implemented in Python using 
 ## Project Structure
 
 Minesweeper-Tkinter/
-├── .idea/                    # PyCharm project configuration files
-├── main.py                   # Entry point for the game
-├── cell.py                   # Cell management
-├── settings.py               # Board settings
-├── utils.py                  # Utility functions
-└── README.md                 # This README file
+├── .idea/                    
+├── main.py                   
+├── cell.py                  
+├── settings.py              
+├── utils.py                  
+└── README.md                
 
 
 
