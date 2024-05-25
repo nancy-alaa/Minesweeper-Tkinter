@@ -31,15 +31,7 @@ This repository contains a classic Minesweeper game implemented in Python using 
   ```sh
   python main.py
 
-## Project Structure
-
-Minesweeper-Tkinter/
-├── .idea/                    
-├── main.py                   
-├── cell.py                  
-├── settings.py              
-├── utils.py                  
-└── README.md                
+Enjoy <3
 
 
 
